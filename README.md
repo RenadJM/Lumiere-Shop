@@ -1,2 +1,2 @@
-# Lumiere-Shop
+# Lumiere
 Scented Candles &amp; Home Decor
