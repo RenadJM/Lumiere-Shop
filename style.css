@@ -163,7 +163,6 @@ h3 {
     border-radius: 5px;
 }
 
-/* في حال عدم وجود صور (الخطوة الأولى) */
 .product-image:empty::before {
     content: "🖼️";
     font-size: 3em;
@@ -376,4 +375,5 @@ footer {
     .contact-table td:last-child {
         margin-bottom: 0;
     }
+
 }
